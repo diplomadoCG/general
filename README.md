@@ -1,3 +1,3 @@
 general
-Repositorio de ejercicioo
+Repositorio de ejercicio
 =======
