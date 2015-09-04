@@ -1,3 +1,8 @@
 hola
+<<<<<<< HEAD
 cambio hecho 
 De aqui no pasaran
+=======
+cambio hecho
+Hola Mundo
+>>>>>>> 3163ac04238f3365adaf73c54d5c105f7a575daa
